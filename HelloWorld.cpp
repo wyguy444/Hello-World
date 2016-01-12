@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main(){
-   std::out<<"HelloWorld!"<<std::endl;
+   std::out<<"FightOn!"<<std::endl;
 }
